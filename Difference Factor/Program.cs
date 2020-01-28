@@ -10,6 +10,8 @@ namespace Difference_Factor
     {
         static void Main(string[] args)
         {
+            Difference_Factor.FindNextLargestSubstrings("abcdef");
+            Console.ReadKey();
         }
     }
 }
